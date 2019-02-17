@@ -18,7 +18,7 @@
 ![](https://github.com/zywkloo/CuHackingAmazonConnect/raw/master/CallMoniterScreenshot.jpeg)
 * Please visit http://hacker-pizza.herokuapp.com , then call +1 877-373-3618. 
 * The website will display the result of your order on runtime, only for demoing the mechanisem .(For now just support small pizza or small salade)
-* This is a HTTP website using socket.io , hosted on vultr server 2. The part 2 repository is not on git hub.
+* This is a HTTP website using socket.io , hosted on Heroku server 2. The part 2 repository is not on git hub.
 
 ## Tips:
 * You do not need to clone and deploy this repo locally or anywhere else, since most of the logic and source codes are stored on Amazon Lambda, and Amazon Connect. However, we have no approaches to public these source out of the AWS ecosystem for now.
