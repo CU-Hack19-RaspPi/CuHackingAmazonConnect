@@ -15,5 +15,6 @@ The api can be found here [here](https://github.com/aws/amazon-connect-streams)
 * The website will display the result of your order on runtime.(For now just support small pizza or small salade)
 * This is a HTTP website using socket.io , hosted on vultr server 2. repository not on git hub.
 
+## Tips:
 * You do not need to clone and deploy this repo locall, since most of the logic and source codes are stored on Amazon Lambda, and Amazon Connect.
 * Supported browse: Chrome only. May have problems with mobile Chrome browser.
