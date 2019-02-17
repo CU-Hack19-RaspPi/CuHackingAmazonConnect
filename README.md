@@ -5,16 +5,15 @@ Integratre the amazon connect streaming api
 
 The api can be found here [here](https://github.com/aws/amazon-connect-streams)
 
-## Example code
+## part1 
+* Please visit https://ottawa.recipes then then call call 1 866-846-5640
+* The website will display a phone UI.
+* All hosts connecting to the amazon instance have to be on https. you should ublock all popups
+* This is a HTTPS website, hosted on vultr server 1. repository is here.
+## part2
+* Please visit http://hacker-pizza.herokuapp.com  then call +1 877-373-3618. 
+* The website will display the result of your order on runtime.(For now just support small pizza or small salade)
+* This is a HTTP website using socket.io , hosted on vultr server 2. repository not on git hub.
 
-To run the server put in `npm start` into your terminal
-
-It will run a server on https://localhost:8080
-
-If you want to host your hack at a different address you will need to let us know so we can whitelist it. If you don't amazon connect will reject your address.
-
-The number to call will be 1-506-906-8261 ext [groupNumber]
-
-All hosts connecting to the amazon instance have to be on https.
-
-If you need to generate your own cert you can use openssl with the following command `openssl req -nodes -new -x509 -keyout server.key -out server.cert`
+* You do not need to clone and deploy this repo locall, since most of the logic and source codes are stored on Amazon Lambda, and Amazon Connect.
+* Supported browse: Chrome only. May have problems with mobile Chrome browser.
