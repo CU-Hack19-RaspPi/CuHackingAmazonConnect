@@ -5,7 +5,7 @@
 ## Amazon Connect Streams
 * Integrate the Amazon connect streaming api
 * The api can be found here [here](https://github.com/aws/amazon-connect-streams)
-* [Preoject page on DevPost](https://devpost.com/software/cuhackingamazonconnect)
+* [Project page on DevPost](https://devpost.com/software/cuhackingamazonconnect)
 
 ## Part1 Pizza Phone call Ordering System for customers
 ![](https://github.com/zywkloo/CuHackingAmazonConnect/raw/master/CallSystemScreenShot.png)
