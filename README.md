@@ -7,7 +7,7 @@
 * The api can be found here [here](https://github.com/aws/amazon-connect-streams)
 * [Project page on DevPost](https://devpost.com/software/cuhackingamazonconnect)
 
-## Part1 Pizza Phone call Ordering System for customers
+## Part1 Pizza Phone Call Ordering System for customers
 ![](https://github.com/zywkloo/CuHackingAmazonConnect/raw/master/CallSystemScreenShot.png)
 * Please visit https://ottawa.recipes , then call +1 866-846-5640
 * Supporting 3 languages including English, French and Chinese.
