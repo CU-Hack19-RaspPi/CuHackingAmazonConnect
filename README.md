@@ -11,7 +11,7 @@
 ![](https://github.com/zywkloo/CuHackingAmazonConnect/raw/master/CallSystemScreenShot.png)
 * Please visit https://ottawa.recipes , then call +1 866-846-5640
 * Supporting 3 languages including English, French and Chinese.
-* The website will display a phone UI, and an text area.
+* The website will display a phone UI, and a text area.
 * All requests connected to the Amazon instance have to be on HTTPS. You should unblock all popups and get an HTTPS certificate.
 * This is an HTTPS website, hosted on vultr server 1. The repository is here.
 
