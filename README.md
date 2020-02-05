@@ -1,6 +1,5 @@
 # Hacker Pizza Order System - cuHacking 2019
 * [WINNER of Best Amazon Connect Integration](https://devpost.com/software/cuhackingamazonconnect)  [[upland InGenius](https://www.ingenius.com/)]
-* InGenius cuHacking19 Challenge: Best Amazon Connect Integration Team winner.
 * By Songmi Wu, Yichen Lian ,Keith Huang, Yiwei Zhang
 
 ## Amazon Connect Streams
